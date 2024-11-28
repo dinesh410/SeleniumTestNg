@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-28T14:11:02 EST" name="Selenium Test Suite" finished-at="2024-11-28T14:11:11 EST" duration-ms="8196">
+    <groups>
+    </groups>
+    <test started-at="2024-11-28T14:11:02 EST" name="Home Page Tests" finished-at="2024-11-28T14:11:11 EST" duration-ms="8196">
+      <class name="com.resolver.tests.HomePageTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:03 EST" name="setup" finished-at="2024-11-28T14:11:05 EST" duration-ms="2850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="navigateToHomePage()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:05 EST" name="navigateToHomePage" finished-at="2024-11-28T14:11:06 EST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method signature="test1LoginWithInvalidEmail()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:06 EST" name="test1LoginWithInvalidEmail" finished-at="2024-11-28T14:11:06 EST" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1LoginWithInvalidEmail -->
+        <test-method is-config="true" signature="navigateToHomePage()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:06 EST" name="navigateToHomePage" finished-at="2024-11-28T14:11:06 EST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method signature="test1LoginWithNoPassword()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:06 EST" name="test1LoginWithNoPassword" finished-at="2024-11-28T14:11:07 EST" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1LoginWithNoPassword -->
+        <test-method is-config="true" signature="navigateToHomePage()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:07 EST" name="navigateToHomePage" finished-at="2024-11-28T14:11:07 EST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method signature="test1LoginWithValidCredentials()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:07 EST" name="test1LoginWithValidCredentials" finished-at="2024-11-28T14:11:07 EST" duration-ms="424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1LoginWithValidCredentials -->
+        <test-method is-config="true" signature="navigateToHomePage()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:07 EST" name="navigateToHomePage" finished-at="2024-11-28T14:11:07 EST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method signature="test2ListGroupValues()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:07 EST" name="test2ListGroupValues" finished-at="2024-11-28T14:11:07 EST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2ListGroupValues -->
+        <test-method is-config="true" signature="navigateToHomePage()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:07 EST" name="navigateToHomePage" finished-at="2024-11-28T14:11:07 EST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method signature="test3DropdownSelection()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:07 EST" name="test3DropdownSelection" finished-at="2024-11-28T14:11:08 EST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3DropdownSelection -->
+        <test-method is-config="true" signature="navigateToHomePage()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:08 EST" name="navigateToHomePage" finished-at="2024-11-28T14:11:08 EST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method signature="test4ButtonStates()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:08 EST" name="test4ButtonStates" finished-at="2024-11-28T14:11:08 EST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4ButtonStates -->
+        <test-method is-config="true" signature="navigateToHomePage()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:08 EST" name="navigateToHomePage" finished-at="2024-11-28T14:11:08 EST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method signature="test5ButtonWaitAndClick()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:08 EST" name="test5ButtonWaitAndClick" finished-at="2024-11-28T14:11:10 EST" duration-ms="2429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5ButtonWaitAndClick -->
+        <test-method is-config="true" signature="navigateToHomePage()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:10 EST" name="navigateToHomePage" finished-at="2024-11-28T14:11:10 EST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method signature="test6TableCellValue()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:10 EST" name="test6TableCellValue" finished-at="2024-11-28T14:11:10 EST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6TableCellValue -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.resolver.tests.HomePageTests@752325ad]" started-at="2024-11-28T14:11:10 EST" name="teardown" finished-at="2024-11-28T14:11:11 EST" duration-ms="317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.resolver.tests.HomePageTests -->
+    </test> <!-- Home Page Tests -->
+  </suite> <!-- Selenium Test Suite -->
+</testng-results>
